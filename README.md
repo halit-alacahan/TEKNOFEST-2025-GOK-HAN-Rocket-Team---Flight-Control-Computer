@@ -15,8 +15,8 @@ This repository contains the complete hardware design, schematic diagrams, and d
 ## 🛠️ Key Technical Specifications
 
 * PCB Architecture:4-Layer Stackup (Optimized for RF & Signal Integrity)
-* Microcontroller (MCU): STM32F446RET6
-* RF Communication: Long-range telemetry module (E22400T37S)
+* **Microcontroller (MCU)**: STM32F446RET6
+* **RF Communication**: Long-range telemetry module (E22400T37S)
 * **Navigation & Sensors:**
   * BMI088
   * BME280
