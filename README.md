@@ -22,6 +22,10 @@ This repository contains the complete hardware design, schematic diagrams, and d
   * BME280
   * L86 GNSS
 * **Interfaces & Protocols:** SPI, I2C, UART
+* FT232RNL UART-USB interface
+* W25Q256JVFIQ SPI Flash
+* MAX3232EIDR RS232 to UART converter
+* INA139NA Voltage and Current Sense
 * **Power Management:** Buck Converters and LDOs
 * **Pyro / Recovery Channels:** High Side Drivers
 
